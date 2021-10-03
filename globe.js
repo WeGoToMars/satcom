@@ -272,10 +272,6 @@ function selectdescription(name){
             source = 'SNAP-10A nuclear satellite fragments'
             link = 'https://en.wikipedia.org/wiki/SNAP-10A'
             break
-        case 'OPS 4682 DEB':
-            source = 'SNAP-10A nuclear satellite fragments'
-            link = 'https://en.wikipedia.org/wiki/SNAP-10A'
-            break
         default:
             source = ''
             link = ''
